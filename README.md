@@ -8,7 +8,7 @@
 
 I'm a product manager passionate about building and driving the development of technical products. My journey spans data architecture, cloud-native analytics platforms, and AI solutions empowering businesses to make impactful, data-driven decisions.
 
-Outside of work, you'll find me road-tripping, immersed in classic rock & classical music, reading, blogging & writing poetry, working out, and meditating. I believe in blending technology, creativity, and wellbeing to make a true difference.
+currently building and exploring AGI. some of the projects I am/have worked on in AI are below. 
 
 ---
 
