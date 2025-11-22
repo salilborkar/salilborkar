@@ -22,8 +22,8 @@ Outside of work, you'll find me road-tripping, immersed in classic rock & classi
 
 ## 🚀 Favorite Projects & Achievements
 - **[Data Visualization and RAG in Python](https://github.com/salilborkar/investment_scout):** a full-stack financial analysis tool to bridge the gap between quantitative market data and qualitative financial reporting visualizing data using Matplotlib and using Retrieval Augmented Generation (RAG) to power a conversational AI chatbot about financial risks of investing in companies.
-- **[Financial Agentic AI](htpps://github.com/salilborkar/autonomous_financial_agent):** an Agentic AI to decide whether to buy/sell/hold a stock based on sentiment analysis and other financial data available on the internet
-- **Cloud-Native Analytics Infrastructure:** Built data platforms on AWS for 2 healthcare clients and 5 SaaS products.
+- **[Financial Agentic AI](https://github.com/salilborkar/autonomous_financial_agent):** an Agentic AI to decide whether to buy/sell/hold a stock based on sentiment analysis and other financial data available on the internet
+- **Cloud native Analytics Infrastructure:** Built data platforms on AWS for 2 healthcare clients and 5 SaaS products.
 - **Recommendation System:** Engineered a system that improved customer wellbeing by 25%.
 
 ---
@@ -37,8 +37,8 @@ Outside of work, you'll find me road-tripping, immersed in classic rock & classi
 
 ## ⚡ Fun Facts
 
-- Big fan of road trips 🚗, classic rock 🎸, classical music 🎼, soccer ⚽️
-- Enjoy writing blogs & poetry @ https://salilborkar.substack.com/ ✍️
-- Fitness & meditation enthusiast 🧘‍♂️
+- fan of road trips 🚗, classic rock 🎸, classical music 🎼, soccer ⚽️
+- love writing blogs & poetry @ https://salilborkar.substack.com/ ✍️
+- fitness & meditation enthusiast 🧘‍♂️
 
 ---
