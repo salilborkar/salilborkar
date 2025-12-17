@@ -33,7 +33,7 @@ currently building and exploring AGI. some of the projects I am/have worked on i
 ## 📬 Connect & Find Me
 
 - [LinkedIn](https://linkedin.com/in/salilborkar)
-- 📧 Email: salilwrites@yahoo.com
+- 📧 Email: salil_borkar@hotmail.com
 
 ---
 
