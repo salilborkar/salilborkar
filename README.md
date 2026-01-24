@@ -26,21 +26,21 @@ currently building and exploring AGI. some of the projects I am/have worked on i
 - **[Data Visualization and RAG in Python](https://github.com/salilborkar/investment_scout):** a full-stack financial analysis tool to bridge the gap between quantitative market data and qualitative financial reporting visualizing data using Matplotlib and using Retrieval Augmented Generation (RAG) to power a conversational AI chatbot about financial risks of investing in companies.
 
 - **Cloud native Analytics Infrastructure:** Built data platforms on AWS for 2 healthcare clients and 5 SaaS products.
-- **Recommendation System:** Engineered a system that improved customer wellbeing by 25%.
+- **Recommendation System:** Engineered a system that improved customer wellbeing by 18%.
 
 ---
 
 ## 📬 Connect & Find Me
 
 - [LinkedIn](https://linkedin.com/in/salilborkar)
-- 📧 Email: salil_borkar@hotmail.com
+- 📧 Email: co.borkar@gmail.com
 
 ---
 
 ## ⚡ Fun Facts
 
 - fan of road trips 🚗, classic rock 🎸, classical music 🎼, soccer ⚽️
-- love writing blogs & poetry @ https://salilborkar.substack.com/ ✍️
+- love writing & poetry @ https://betweenmillionthings.wordpress.com/ ✍️
 - fitness & meditation enthusiast 🧘‍♂️
 
 ---
