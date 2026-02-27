@@ -14,9 +14,8 @@ currently building and exploring AGI. some of the projects I am/have worked on i
 
 ## 🛠️ Skills & Specialties
 
-- **Programming:** Python, Java
 - **Expertise:** Agentic AI | Data Infrastructure | Analytics Platforms | Data Architecture
-- **Product:** Cloud-native solutions | SaaS Products | Recommendation Systems | Agentic AI products
+- **Product:** Cloud-native & hybrid data platforms/infrastructure | Data Products | Agentic AI Products
 
 ---
 
