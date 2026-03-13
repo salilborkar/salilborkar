@@ -1,21 +1,21 @@
 # 👋 Hi, I'm Salil
 
-**Product Manager** | Data Infrastructure & Analytics, AI 
+**Technical Program Manager/Technical Lead** | Data Infrastructure & Analytics, AI 
 
 ---
 
 ## 💡 About Me
 
-I'm a product manager passionate about building and driving the development of technical products. My journey spans data architecture, cloud-native analytics platforms, and AI solutions empowering businesses to make impactful, data-driven decisions.
+I'm a technologist passionate about building and driving the development of technical products. My journey spans data architecture, cloud-native analytics platforms, and AI solutions empowering businesses to make impactful, data-driven decisions.
 
-currently building AI Agent products. some of the projects I am/have worked on in AI are below. 
+currently building AI Agents. some of the projects I am/have worked on in AI are below. 
 
 ---
 
 ## 🛠️ Skills & Specialties
 
 - **Expertise:** Agentic AI | Data Infrastructure | Analytics Platforms | Data Architecture
-- **Product:** Cloud-native & hybrid data platforms/infrastructure | Data Products | Agentic AI Products
+- **Program:** Cloud-native & hybrid data platforms/infrastructure | Data Products | Agentic AI Products
 
 ---
 
@@ -38,6 +38,6 @@ currently building AI Agent products. some of the projects I am/have worked on i
 ## ⚡ Fun Facts
 
 - fan of road trips 🚗, classic rock 🎸, classical music 🎼, soccer ⚽️
-- mind musings ✍️ @ https://betweenmillionthings.wordpress.com/ 
+- thought leadership ✍️ @ https://salilborkar.substack.com/ 
 - fitness & meditation enthusiast 🧘‍♂️
 ---
