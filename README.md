@@ -1,43 +1,47 @@
-# 👋 Hi, I'm Salil
+## Hi, I'm Salil 👋
 
-**Technical Program Manager/Technical Lead** | Data Infrastructure & Analytics, AI 
-
----
-
-## 💡 About Me
-
-I'm a technologist passionate about building and driving the development of technical products. My journey spans data architecture, cloud-native analytics platforms, and AI solutions empowering businesses to make impactful, data-driven decisions.
-
-currently building AI Agents. some of the projects I am/have worked on in AI are below. 
+**Senior Technical Program Manager** | Agentic AI Builder | 
+AWS Bedrock · Azure OpenAI · Multi-Agent Systems
 
 ---
 
-## 🛠️ Skills & Specialties
+### 🤖 What I'm Building
 
-- **Expertise:** Agentic AI | Data Infrastructure | Analytics Platforms | Data Architecture
-- **Program:** Cloud-native & hybrid data platforms/infrastructure | Data Products | Agentic AI Products
+I ship production-grade AI tools at the intersection of 
+program management and AI engineering.
+
+**[llm-cost-guard](https://github.com/salilborkar/llm-cost-guard)**
+A GitHub Action that scans Python files for AWS Bedrock and 
+Azure OpenAI API calls and posts a cost estimate to your PR 
+before the code ships. Live on GitHub Marketplace.
+`Python` `AST Parsing` `Docker` `GitHub Actions`
+
+**[Investment Scout](https://github.com/salilborkar/investment_scout)**
+A multi-agent RAG system with true LLM-to-LLM orchestration. 
+An orchestrator agent coordinates a chart analysis agent and 
+a document retrieval agent via MCP handoff.
+`Python` `ChromaDB` `Google Gemini` `Ollama` `MCP`
+
+**[Cost Sentinel](https://github.com/salilborkar/cost-sentinel)**
+A VS Code extension that estimates SQL query costs in 
+real-time before execution using AST parsing.
+`TypeScript` `AST` `VS Code API`
 
 ---
 
-## 🚀 Favorite Projects & Achievements
-- **[Cost Sentinel](https://github.com/salilborkar/cost-sentinel):** a lightweight VS Code FinOps extension to calculate & save query costs by developers in real-time
-- **[Financial Agentic AI](https://github.com/salilborkar/autonomous_financial_agent):** an Agentic AI to decide whether to buy/sell/hold a stock based on sentiment analysis and other financial data available on the internet
-- **[Data Visualization and RAG in Python](https://github.com/salilborkar/investment_scout):** a full-stack financial analysis tool to bridge the gap between quantitative market data and qualitative financial reporting visualizing data using Matplotlib and using Retrieval Augmented Generation (RAG) to power a conversational AI chatbot about financial risks of investing in companies.
+### 🛠 Skills & Stack
 
-- **Recommendation System:** Engineered a system that improved customer wellbeing by 18%.
-
----
-
-## 📬 Connect & Find Me
-
-- [LinkedIn](https://linkedin.com/in/salilborkar)
-- 📧 Email: co.borkar@gmail.com
+**AI/ML:** Agentic systems · RAG architectures · 
+Multi-agent orchestration · LLM integration
+**Cloud:** AWS Bedrock · Azure OpenAI · 
+Cloud-native infrastructure
+**Program Management:** Technical roadmapping · 
+SDLC leadership · Cross-functional delivery
 
 ---
 
-## ⚡ Fun Facts
+### 📬 Connect
 
-- fan of road trips 🚗, classic rock 🎸, classical music 🎼, soccer ⚽️
-- thought leadership ✍️ @ https://salilborkar.substack.com/ 
-- fitness & meditation enthusiast 🧘‍♂️
----
+[LinkedIn](https://linkedin.com/in/salilborkar) · 
+[Portfolio](https://borkar.co) · 
+San Diego, CA
