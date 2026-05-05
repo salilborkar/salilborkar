@@ -1,6 +1,6 @@
 ## Hi, I'm Salil 👋
 
-**Senior Technical Program Manager** | Agentic AI Builder | 
+**Technical Program Manager** | Agentic AI Builder | 
 AWS Bedrock · Azure OpenAI · Multi-Agent Systems
 
 ---
@@ -10,7 +10,7 @@ AWS Bedrock · Azure OpenAI · Multi-Agent Systems
 I ship production-grade AI tools at the intersection of 
 program management and AI engineering.
 
-**[llm-cost-guard](https://github.com/salilborkar/llm-cost-guard)**
+**[llm-cost-lint](https://github.com/salilborkar/llm-cost-lint)**
 A GitHub Action that scans Python files for AWS Bedrock and 
 Azure OpenAI API calls and posts a cost estimate to your PR 
 before the code ships. Live on GitHub Marketplace.
