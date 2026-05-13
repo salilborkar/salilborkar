@@ -1,6 +1,6 @@
 ## Hi, I'm Salil 👋
 
-**Technical Program Manager** | Agentic AI Builder | 
+**Technical Product Manager** | Agentic AI Builder | 
 AWS Bedrock · Azure OpenAI · Multi-Agent Systems
 
 ---
