@@ -8,7 +8,7 @@ AWS Bedrock · Azure OpenAI · Multi-Agent Systems
 ### 🤖 What I'm Building
 
 I ship production-grade AI tools at the intersection of 
-program management and AI engineering.
+product management and AI engineering.
 
 **[llm-cost-lint](https://github.com/salilborkar/llm-cost-lint)**
 A GitHub Action that scans Python files for AWS Bedrock and 
@@ -35,7 +35,7 @@ real-time before execution using AST parsing.
 Multi-agent orchestration · LLM integration
 **Cloud:** AWS Bedrock · Azure OpenAI · 
 Cloud-native infrastructure
-**Program Management:** Technical roadmapping · 
+**Product/Program Management:** Product Strategy · Technical roadmapping · 
 SDLC leadership · Cross-functional delivery
 
 ---
