@@ -5,22 +5,20 @@ AWS Bedrock · Azure OpenAI · Multi-Agent Systems
 
 ---
 
-### 🤖 What I'm Building
+### 🤖 What I've built
 
-I ship production-grade AI tools at the intersection of 
+I shipped production-grade AI tools at the intersection of 
 product management and AI engineering.
 
 **[llm-cost-lint](https://github.com/salilborkar/llm-cost-lint)**
-A GitHub Action that scans Python files for AWS Bedrock and 
+A GitHub Action predecessor to "Cost Sentinel" that scans Python files for AWS Bedrock and 
 Azure OpenAI API calls and posts a cost estimate to your PR 
 before the code ships. Live on GitHub Marketplace.
 `Python` `AST Parsing` `Docker` `GitHub Actions`
 
-**[Investment Scout](https://github.com/salilborkar/investment_scout)**
-A multi-agent RAG system with true LLM-to-LLM orchestration. 
-An orchestrator agent coordinates a chart analysis agent and 
-a document retrieval agent via MCP handoff.
-`Python` `ChromaDB` `Google Gemini` `Ollama` `MCP`
+**[Argus](https://github.com/salilborkar/argus)**
+Argus is a multi-agent AI system that autonomously researches stocks by orchestrating three specialized agents — market sentiment, price analysis, and SEC filing intelligence — through a shared context bus, dynamic task planning, and a full audit trail.
+`Python` `ChromaDB` `Google Gemini` `all-MiniLM-L6-v2` `Streamlit` 
 
 **[Cost Sentinel](https://github.com/salilborkar/cost-sentinel)**
 A VS Code extension that estimates SQL query costs in 
