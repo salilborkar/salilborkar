@@ -1,13 +1,19 @@
 ## Hi, I'm Salil 👋
 
-**Technical Product Manager** Agentic AI Builder · Multi-Agent Systems
+**Technical Product Manager** Agentic AI Builder · Multi-Agent Systems · Python
 
 ---
 
 ### 🤖 What I've built
 
 I shipped production-grade AI tools at the intersection of 
-product management and AI engineering.
+product management, data and AI engineering.
+
+**[sd-transit-pipeline](https://github.com/salilborkar/sd-transit-ETL-pipeline)**
+A localized data engineering pipeline project written in Python to perform 
+Extract-Transform-Load (ETL) operations on San Diego's Transit Ridership data 
+originally in CSV format
+`Python`
 
 **[llm-cost-lint](https://github.com/salilborkar/llm-cost-lint)**
 A GitHub Action predecessor to "Cost Sentinel" that scans Python files for AWS Bedrock and 
@@ -29,7 +35,7 @@ real-time before execution using AST parsing.
 ### 🛠 Skills & Stack
 
 **AI/ML:** Agentic systems · RAG architectures · 
-Multi-agent orchestration · LLM integration
+Multi-agent orchestration · LLM integration · Python
 **Cloud:** AWS Bedrock · Azure OpenAI · 
 Cloud-native infrastructure
 **Product/Program Management:** Product Strategy · Technical roadmapping · 
@@ -40,5 +46,5 @@ SDLC leadership · Cross-functional delivery
 ### 📬 Connect
 
 [LinkedIn](https://linkedin.com/in/salilborkar) · 
-[Portfolio](https://borkar.co) · 
+[Portfolio](https://salilborkar.github.io) · 
 San Diego, CA
